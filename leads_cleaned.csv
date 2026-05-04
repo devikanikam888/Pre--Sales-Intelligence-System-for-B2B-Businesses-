@@ -1,0 +1,201 @@
+lead_id,email,phone,company,job_title,source,created_date,email_valid_flag,phone_valid_flag,duplicate_flag,total_calls_attempted,total_emails_sent,total_linkedin_touches,replied_flag,positive_reply_flag,attempted_flag,connected_flag,qualified_flag,meeting_booked_flag,meeting_held_flag,primary_email_subject,primary_template_id,primary_call_script,contact_time_bucket,contact_day
+132,user132@outlook.com,447457735475.0,Alpha Ltd,Executive,inbound_event,2026-04-21,1,1,0,0,2,0,1,1,1,1,0,0,0,Subject B,,S2,morning,Monday
+181,user181@company.com,,,Manager,inbound_event,2026-04-21,1,0,0,2,0,1,1,0,1,1,1,1,1,,T2,S1,afternoon,Friday
+38,user38@yahoo.com,447228739002.0,Gamma Corp,Manager,inbound_event,2026-04-24,1,1,0,2,5,3,0,0,1,1,1,0,0,Subject A,T1,S1,morning,Wednesday
+36,user36@outlook.com,,,,inbound_event,2026-04-24,1,0,0,4,0,2,0,0,1,0,0,0,0,Subject A,T1,S2,morning,Friday
+155,user155@outlook.com,447317347196.0,,Manager,inbound_event,2026-04-22,1,1,0,0,0,2,1,0,1,0,0,0,0,Subject A,T1,S1,morning,Sunday
+64,user64@yahoo.com,447110417325.0,Delta LLC,,inbound_event,2026-04-26,1,1,0,2,4,2,0,0,1,1,0,0,0,Subject B,T1,S1,morning,Sunday
+80,user80@gmail.com,,Gamma Corp,,inbound_event,2026-04-22,1,0,0,1,4,3,0,0,1,1,0,0,0,Subject B,T1,S1,afternoon,Monday
+166,user166@company.com,447044079525.0,Gamma Corp,Director,inbound_event,2026-04-26,1,1,0,4,2,1,0,0,1,0,0,0,0,,,S1,morning,Tuesday
+117,user117@gmail.com,447023100565.0,Alpha Ltd,Executive,referral,2026-04-26,1,1,0,2,3,3,0,0,1,1,0,0,0,Subject B,T1,,morning,Tuesday
+37,,447987151998.0,,Executive,inbound_event,2026-04-21,0,1,0,1,4,0,0,0,1,1,1,1,1,,,S1,morning,Wednesday
+41,user41@gmail.com,447479635094.0,Delta LLC,Executive,inbound_event,2026-04-23,1,1,0,4,3,0,0,0,1,0,0,0,0,Subject B,T2,S1,afternoon,Friday
+15,user15@yahoo.com,447890061514.0,Gamma Corp,,outbound,2026-04-23,1,1,0,1,4,0,0,0,1,0,0,0,0,,T2,,afternoon,Saturday
+138,user138@yahoo.com,447361798912.0,,Executive,outbound,2026-04-21,1,1,0,0,0,2,1,1,1,0,0,0,0,Subject B,T2,,afternoon,Sunday
+165,user165@company.com,,Gamma Corp,,inbound_event,2026-04-24,1,0,0,0,3,3,0,0,1,1,0,0,0,Subject A,,,morning,Friday
+146,user146@yahoo.com,447662394175.0,Alpha Ltd,,inbound_event,2026-04-26,1,1,1,3,3,3,0,0,1,0,0,0,0,Subject A,,S2,morning,Monday
+13,user13@company.com,447004304577.0,Beta Inc,,outbound,2026-04-20,1,1,0,0,5,1,0,0,1,1,0,0,0,,T1,S2,afternoon,Friday
+120,user120@gmail.com,447612617624.0,Delta LLC,Director,inbound_event,2026-04-26,1,1,0,0,0,0,0,0,0,1,0,0,0,,,,morning,Monday
+102,user102@outlook.com,,Delta LLC,,inbound_event,2026-04-22,1,0,0,4,3,2,1,0,1,1,1,0,0,Subject A,,S1,afternoon,Saturday
+121,user121@outlook.com,447482526843.0,,Director,inbound_event,2026-04-24,1,1,1,0,5,3,1,1,1,1,1,0,0,,,S1,afternoon,Saturday
+39,user39@yahoo.com,447426616443.0,Gamma Corp,Director,referral,2026-04-20,1,1,0,4,0,2,1,0,1,1,1,0,0,Subject B,T2,S2,morning,Thursday
+178,,,Delta LLC,Manager,inbound_event,2026-04-24,0,0,0,1,5,0,1,1,1,0,0,0,0,Subject A,,S1,morning,Wednesday
+134,,447766047140.0,,Executive,inbound_event,2026-04-24,0,1,0,1,3,3,1,1,1,0,0,0,0,Subject B,,S1,afternoon,Friday
+44,user44@company.com,447266745915.0,Gamma Corp,Director,inbound_event,2026-04-25,1,1,0,1,4,3,1,0,1,1,1,0,0,Subject A,T1,S1,afternoon,Wednesday
+68,user68@outlook.com,,Beta Inc,,inbound_event,2026-04-23,1,0,0,0,1,0,0,0,1,0,0,0,0,Subject A,,S1,afternoon,Saturday
+90,,447102253351.0,Beta Inc,,inbound_event,2026-04-23,0,1,0,3,3,1,0,0,1,1,0,0,0,,,S2,morning,Thursday
+84,user84@gmail.com,,Alpha Ltd,,inbound_event,2026-04-23,1,0,0,4,2,1,1,1,1,0,0,0,0,Subject A,T1,S1,afternoon,Tuesday
+145,,447325774939.0,Alpha Ltd,Manager,inbound_event,2026-04-20,0,1,0,4,1,0,0,0,1,1,1,0,0,Subject B,,S1,afternoon,Saturday
+182,user182@yahoo.com,,,Director,inbound_event,2026-04-23,1,0,0,4,5,0,0,0,1,1,1,1,1,,T1,,afternoon,Saturday
+119,user119@yahoo.com,,Beta Inc,,inbound_event,2026-04-20,1,0,0,0,4,3,0,0,1,1,0,0,0,Subject A,,S1,afternoon,Saturday
+14,,447092111247.0,Gamma Corp,Manager,inbound_event,2026-04-20,0,1,0,2,2,1,0,0,1,0,0,0,0,Subject A,,S2,morning,Thursday
+133,user133@company.com,447627215893.0,Delta LLC,Manager,inbound_event,2026-04-25,1,1,0,3,4,0,0,0,1,1,1,0,0,Subject B,T2,,afternoon,Monday
+167,user167@outlook.com,447342308147.0,Gamma Corp,Executive,inbound_event,2026-04-25,1,1,1,4,4,0,1,0,1,1,0,0,0,Subject B,,S1,afternoon,Wednesday
+20,user20@gmail.com,447860461994.0,Alpha Ltd,Director,inbound_event,2026-04-24,1,1,0,3,4,2,1,1,1,1,1,1,1,Subject B,T2,S2,afternoon,Friday
+61,user61@gmail.com,,Delta LLC,Manager,inbound_event,2026-04-24,1,0,0,2,5,0,0,0,1,0,0,0,0,,,,morning,Sunday
+81,user81@company.com,,Gamma Corp,,referral,2026-04-26,1,0,0,2,1,1,1,1,1,1,1,1,1,Subject A,T2,,morning,Sunday
+66,user66@company.com,,,,inbound_event,2026-04-22,1,0,1,3,0,1,1,1,1,1,1,1,1,,T2,,afternoon,Friday
+32,user32@yahoo.com,447629500107.0,Beta Inc,Director,inbound_event,2026-04-25,1,1,0,0,3,0,0,0,1,0,0,0,0,,,S1,morning,Monday
+21,user21@company.com,447417104486.0,Delta LLC,Manager,inbound_event,2026-04-22,1,1,0,1,3,1,0,0,1,0,0,0,0,Subject B,T2,S1,afternoon,Thursday
+105,user105@company.com,447981368470.0,Delta LLC,Director,referral,2026-04-26,1,1,0,3,3,3,0,0,1,0,0,0,0,Subject A,T1,,morning,Monday
+158,user158@gmail.com,447054623840.0,,Director,inbound_event,2026-04-23,1,1,0,2,0,0,1,1,1,1,1,1,1,Subject A,T2,,morning,Sunday
+173,user173@outlook.com,447534681952.0,Delta LLC,Manager,outbound,2026-04-26,1,1,0,3,0,1,1,0,1,0,0,0,0,,T2,S2,afternoon,Sunday
+77,user77@gmail.com,,Gamma Corp,Executive,inbound_event,2026-04-24,1,0,0,3,2,0,0,0,1,0,0,0,0,,T1,S2,morning,Tuesday
+34,user34@outlook.com,447746704590.0,Gamma Corp,Executive,inbound_event,2026-04-21,1,1,0,3,2,3,0,0,1,0,0,0,0,Subject A,,,afternoon,Friday
+93,user93@yahoo.com,447530139280.0,Delta LLC,Executive,inbound_event,2026-04-21,1,1,0,1,5,2,1,1,1,0,0,0,0,Subject A,,S1,morning,Tuesday
+144,,,Gamma Corp,Director,inbound_event,2026-04-25,0,0,0,1,2,2,1,0,1,0,0,0,0,Subject A,T2,S2,morning,Monday
+11,user11@gmail.com,447110820572.0,Gamma Corp,Executive,inbound_event,2026-04-22,1,1,0,4,0,2,0,0,1,0,0,0,0,Subject B,T2,,morning,Monday
+189,user189@gmail.com,447862818985.0,Beta Inc,Executive,inbound_event,2026-04-20,1,1,0,4,4,3,1,1,1,1,1,0,0,,T1,S1,morning,Tuesday
+19,user19@outlook.com,447281046425.0,Delta LLC,Director,inbound_event,2026-04-25,1,1,0,0,5,2,1,0,1,0,0,0,0,,,,morning,Friday
+148,user148@yahoo.com,447887816697.0,Beta Inc,,referral,2026-04-22,1,1,0,2,2,1,1,1,1,0,0,0,0,Subject B,T1,,morning,Wednesday
+92,user92@yahoo.com,447603350311.0,Alpha Ltd,,inbound_event,2026-04-26,1,1,0,3,4,3,0,0,1,0,0,0,0,Subject B,,S2,morning,Monday
+147,user147@outlook.com,447840660723.0,,Executive,inbound_event,2026-04-26,1,1,0,1,4,1,1,1,1,0,0,0,0,Subject A,T1,,afternoon,Thursday
+108,user108@outlook.com,447876318873.0,Gamma Corp,,outbound,2026-04-21,1,1,0,4,4,1,1,1,1,0,0,0,0,Subject A,,,afternoon,Wednesday
+88,user88@yahoo.com,447244603133.0,Alpha Ltd,Director,inbound_event,2026-04-22,1,1,0,1,5,3,1,1,1,1,0,0,0,Subject A,T2,S2,afternoon,Friday
+87,,447857929536.0,Alpha Ltd,Manager,inbound_event,2026-04-23,0,1,0,3,5,2,0,0,1,1,0,0,0,Subject A,T2,S1,afternoon,Thursday
+16,user16@yahoo.com,447974148451.0,Beta Inc,Director,inbound_event,2026-04-25,1,1,0,1,0,1,0,0,1,0,0,0,0,,T1,S2,morning,Sunday
+18,user18@company.com,,Alpha Ltd,,inbound_event,2026-04-24,1,0,0,0,5,3,0,0,1,0,0,0,0,Subject A,T1,S2,afternoon,Wednesday
+58,user58@company.com,447862262584.0,Delta LLC,Director,outbound,2026-04-23,1,1,0,3,1,3,0,0,1,1,0,0,0,,T2,S1,morning,Saturday
+151,user151@company.com,447502254987.0,Alpha Ltd,Director,inbound_event,2026-04-22,1,1,0,1,1,0,0,0,1,1,1,0,0,Subject A,,S1,afternoon,Thursday
+122,,447448023171.0,Beta Inc,Director,outbound,2026-04-24,0,1,0,4,0,1,0,0,1,1,0,0,0,,T2,S2,morning,Tuesday
+29,,447224235022.0,Delta LLC,Manager,inbound_event,2026-04-26,0,1,0,4,4,0,0,0,1,1,1,0,0,Subject B,T1,S1,morning,Monday
+114,user114@company.com,,Beta Inc,,outbound,2026-04-24,1,0,0,1,5,2,0,0,1,1,1,1,1,,T2,,morning,Wednesday
+177,user177@company.com,447530402614.0,Alpha Ltd,Director,inbound_event,2026-04-24,1,1,0,0,3,0,0,0,1,0,0,0,0,,,S2,morning,Monday
+170,,,,Director,inbound_event,2026-04-23,0,0,0,4,2,1,1,1,1,0,0,0,0,Subject A,T2,S1,afternoon,Monday
+10,,447929824877.0,,,inbound_event,2026-04-23,0,1,0,4,4,2,1,0,1,0,0,0,0,Subject A,,S2,morning,Thursday
+5,,447849192834.0,Gamma Corp,,inbound_event,2026-04-24,0,1,0,0,4,0,0,0,1,0,0,0,0,Subject A,T2,S2,afternoon,Sunday
+33,user33@gmail.com,447479113693.0,Gamma Corp,Manager,inbound_event,2026-04-22,1,1,0,2,1,1,0,0,1,1,0,0,0,Subject B,,S2,afternoon,Wednesday
+12,user12@yahoo.com,447285091771.0,Delta LLC,Executive,outbound,2026-04-26,1,1,0,4,0,0,0,0,1,1,1,1,1,,,,afternoon,Tuesday
+24,user24@yahoo.com,447080665322.0,,Executive,inbound_event,2026-04-22,1,1,0,4,1,0,0,0,1,0,0,0,0,,T1,S1,afternoon,Thursday
+137,,447250009003.0,Alpha Ltd,Director,outbound,2026-04-24,0,1,0,0,5,2,1,0,1,0,0,0,0,Subject B,T2,,afternoon,Tuesday
+124,user124@gmail.com,,Alpha Ltd,Director,inbound_event,2026-04-24,1,0,0,1,1,3,0,0,1,0,0,0,0,Subject B,T2,S2,morning,Tuesday
+4,user4@outlook.com,,Alpha Ltd,Manager,outbound,2026-04-25,1,0,0,4,5,3,1,0,1,1,1,0,0,,T2,,afternoon,Friday
+103,,447879825024.0,,Executive,outbound,2026-04-26,0,1,0,3,4,2,0,0,1,0,0,0,0,Subject A,T2,S2,afternoon,Tuesday
+43,user43@company.com,,Alpha Ltd,Executive,inbound_event,2026-04-22,1,0,0,4,5,0,0,0,1,0,0,0,0,Subject B,T2,,morning,Tuesday
+31,,447439870152.0,,Executive,inbound_event,2026-04-20,0,1,1,1,4,2,0,0,1,0,0,0,0,,T2,S1,morning,Thursday
+190,user190@company.com,447667732049.0,Beta Inc,Executive,referral,2026-04-25,1,1,0,2,0,2,0,0,1,0,0,0,0,Subject A,T1,S2,afternoon,Friday
+97,user97@outlook.com,447711536766.0,Gamma Corp,,inbound_event,2026-04-26,1,1,0,2,0,3,0,0,1,0,0,0,0,,,,afternoon,Thursday
+106,,447949487490.0,Alpha Ltd,Director,inbound_event,2026-04-25,0,1,0,0,3,0,0,0,1,0,0,0,0,,T2,S2,morning,Friday
+98,user98@outlook.com,447196145932.0,Beta Inc,,inbound_event,2026-04-21,1,1,1,4,5,3,0,0,1,0,0,0,0,Subject A,T1,,morning,Friday
+169,,447104990716.0,Alpha Ltd,Executive,referral,2026-04-21,0,1,0,0,3,1,1,1,1,0,0,0,0,Subject A,,S1,afternoon,Tuesday
+160,,447093870197.0,Beta Inc,Executive,referral,2026-04-22,0,1,0,4,3,1,0,0,1,1,1,1,1,,,S2,afternoon,Monday
+53,user53@gmail.com,,Delta LLC,Executive,inbound_event,2026-04-22,1,0,0,2,2,3,0,0,1,0,0,0,0,Subject B,T2,,morning,Wednesday
+116,user116@yahoo.com,,Beta Inc,Director,inbound_event,2026-04-20,1,0,1,4,2,1,0,0,1,0,0,0,0,Subject B,T2,S2,morning,Thursday
+112,user112@gmail.com,447514946403.0,,Manager,inbound_event,2026-04-25,1,1,0,1,5,2,1,0,1,1,0,0,0,,,,afternoon,Wednesday
+127,user127@yahoo.com,,Gamma Corp,Executive,outbound,2026-04-23,1,0,1,1,2,0,0,0,1,0,0,0,0,,T1,S1,morning,Tuesday
+149,user149@outlook.com,447546816544.0,,,inbound_event,2026-04-24,1,1,0,4,3,1,0,0,1,1,0,0,0,Subject A,T2,S1,morning,Sunday
+47,user47@yahoo.com,,Gamma Corp,Manager,outbound,2026-04-21,1,0,0,1,0,3,0,0,1,1,0,0,0,,,,morning,Tuesday
+62,user62@outlook.com,,Alpha Ltd,Executive,outbound,2026-04-25,1,0,0,4,5,2,0,0,1,1,1,1,1,Subject A,T2,S1,afternoon,Monday
+154,user154@outlook.com,447523539490.0,Delta LLC,Manager,inbound_event,2026-04-21,1,1,0,2,0,0,1,0,1,0,0,0,0,Subject B,,,afternoon,Friday
+55,user55@company.com,447799362156.0,,Director,inbound_event,2026-04-23,1,1,0,1,3,1,1,0,1,0,0,0,0,Subject A,T1,,afternoon,Friday
+186,user186@company.com,447603683888.0,Delta LLC,Director,outbound,2026-04-24,1,1,0,2,0,2,1,1,1,1,0,0,0,Subject B,T1,S2,afternoon,Tuesday
+72,user72@yahoo.com,447513559051.0,Alpha Ltd,Director,outbound,2026-04-20,1,1,0,3,5,1,0,0,1,1,1,1,0,Subject A,T2,S1,morning,Sunday
+67,user67@outlook.com,,,Executive,outbound,2026-04-26,1,0,0,1,2,1,0,0,1,1,1,0,0,,,,morning,Friday
+17,,447104473095.0,,,inbound_event,2026-04-23,0,1,1,3,1,3,1,0,1,0,0,0,0,Subject A,,S2,afternoon,Thursday
+141,,447597465125.0,Alpha Ltd,Manager,outbound,2026-04-21,0,1,0,3,2,3,1,0,1,0,0,0,0,,T2,S2,afternoon,Thursday
+135,user135@company.com,447343067239.0,Beta Inc,Executive,inbound_event,2026-04-24,1,1,0,1,1,1,1,0,1,1,1,0,0,Subject B,T1,S2,afternoon,Wednesday
+50,user50@outlook.com,447415500132.0,Gamma Corp,Executive,inbound_event,2026-04-20,1,1,0,3,1,3,0,0,1,0,0,0,0,Subject A,,S2,afternoon,Sunday
+17,user17@company.com,447741969958.0,Delta LLC,Director,inbound_event,2026-04-21,1,1,1,4,1,1,0,0,1,0,0,0,0,,T1,S2,afternoon,Monday
+180,user180@outlook.com,447750124879.0,Delta LLC,Director,inbound_event,2026-04-23,1,1,0,2,4,1,1,0,1,0,0,0,0,Subject A,,S2,morning,Thursday
+150,,447878291170.0,Beta Inc,Executive,inbound_event,2026-04-23,0,1,0,3,2,2,0,0,1,1,0,0,0,,T1,S1,morning,Thursday
+110,user110@outlook.com,447022258952.0,Gamma Corp,Director,inbound_event,2026-04-21,1,1,0,3,4,3,1,0,1,0,0,0,0,Subject B,,S1,morning,Wednesday
+85,user85@company.com,447772112905.0,Beta Inc,Director,outbound,2026-04-26,1,1,0,0,5,2,1,0,1,0,0,0,0,Subject A,T1,S2,afternoon,Monday
+35,,447374625143.0,Delta LLC,,inbound_event,2026-04-22,0,1,1,4,1,1,0,0,1,0,0,0,0,Subject A,T1,,afternoon,Thursday
+188,user188@gmail.com,,Gamma Corp,,inbound_event,2026-04-26,1,0,0,1,5,2,0,0,1,1,1,1,0,,,S2,morning,Wednesday
+46,user46@yahoo.com,447392370769.0,Beta Inc,Director,inbound_event,2026-04-20,1,1,0,3,5,0,1,1,1,0,0,0,0,,T2,S1,afternoon,Friday
+74,user74@company.com,,,,inbound_event,2026-04-26,1,0,0,2,3,0,0,0,1,0,0,0,0,,T2,S1,morning,Wednesday
+140,,447251761906.0,Alpha Ltd,Executive,inbound_event,2026-04-24,0,1,0,0,4,3,0,0,1,1,0,0,0,,T1,S2,afternoon,Thursday
+66,user66@outlook.com,447800109552.0,Delta LLC,,inbound_event,2026-04-24,1,1,1,4,1,2,0,0,1,1,1,1,1,,,,afternoon,Thursday
+52,user52@company.com,447958538786.0,Alpha Ltd,Executive,inbound_event,2026-04-26,1,1,0,2,4,2,0,0,1,0,0,0,0,Subject A,T2,S1,afternoon,Thursday
+35,,447577386946.0,Beta Inc,Executive,outbound,2026-04-26,0,1,1,0,3,2,0,0,1,0,0,0,0,,,S1,afternoon,Monday
+71,user71@gmail.com,,Alpha Ltd,Manager,inbound_event,2026-04-20,1,0,0,4,4,2,0,0,1,1,0,0,0,Subject A,T1,S1,afternoon,Saturday
+70,,447061047505.0,Alpha Ltd,,outbound,2026-04-22,0,1,0,3,3,3,0,0,1,1,0,0,0,,T1,,afternoon,Sunday
+159,user159@yahoo.com,,Alpha Ltd,Executive,inbound_event,2026-04-26,1,0,0,3,2,1,0,0,1,0,0,0,0,,,S2,morning,Thursday
+99,user99@outlook.com,447964419113.0,Beta Inc,Director,outbound,2026-04-25,1,1,0,3,5,0,0,0,1,1,0,0,0,Subject A,T1,S1,afternoon,Saturday
+2,,,,Manager,inbound_event,2026-04-23,0,0,0,2,5,3,1,1,1,0,0,0,0,Subject A,,S2,morning,Thursday
+30,user30@yahoo.com,447514089440.0,,,inbound_event,2026-04-24,1,1,0,0,2,1,1,1,1,1,1,0,0,,,,morning,Sunday
+65,user65@company.com,447408489368.0,Alpha Ltd,,outbound,2026-04-25,1,1,0,1,4,3,1,0,1,0,0,0,0,Subject A,T2,S1,afternoon,Friday
+164,user164@gmail.com,447045572961.0,Alpha Ltd,Manager,inbound_event,2026-04-24,1,1,0,2,2,2,0,0,1,0,0,0,0,Subject B,T2,S1,afternoon,Friday
+22,user22@outlook.com,447346561339.0,Gamma Corp,Manager,outbound,2026-04-23,1,1,0,2,5,1,0,0,1,0,0,0,0,Subject A,T1,S2,afternoon,Tuesday
+83,user83@yahoo.com,,Delta LLC,Director,inbound_event,2026-04-26,1,0,0,0,5,2,1,1,1,1,1,0,0,Subject B,T1,S1,morning,Sunday
+51,,447491946697.0,Delta LLC,Manager,inbound_event,2026-04-20,0,1,0,1,2,1,0,0,1,1,0,0,0,Subject B,T2,S2,morning,Monday
+163,,447326661954.0,Alpha Ltd,Director,outbound,2026-04-26,0,1,0,0,1,0,1,1,1,0,0,0,0,,,S1,afternoon,Saturday
+157,user157@gmail.com,,Beta Inc,Executive,outbound,2026-04-20,1,0,0,4,4,2,0,0,1,0,0,0,0,Subject B,T2,S2,afternoon,Sunday
+79,,447423026618.0,Beta Inc,Director,inbound_event,2026-04-20,0,1,0,4,0,2,0,0,1,0,0,0,0,Subject A,T2,,afternoon,Sunday
+153,,447418342492.0,,Executive,outbound,2026-04-20,0,1,0,1,1,2,0,0,1,1,1,1,0,Subject A,,,morning,Tuesday
+91,user91@gmail.com,,Alpha Ltd,Manager,referral,2026-04-24,1,0,0,3,3,1,0,0,1,1,0,0,0,,T1,,afternoon,Sunday
+40,user40@outlook.com,447921322392.0,,Director,inbound_event,2026-04-22,1,1,0,3,2,3,1,0,1,1,1,0,0,,,,afternoon,Monday
+162,user162@yahoo.com,447549651765.0,Alpha Ltd,Executive,outbound,2026-04-20,1,1,0,2,4,2,0,0,1,0,0,0,0,,T2,,afternoon,Saturday
+121,,447607199805.0,Alpha Ltd,Executive,outbound,2026-04-24,0,1,1,1,1,2,0,0,1,1,0,0,0,,T2,,afternoon,Saturday
+174,user174@gmail.com,,Gamma Corp,Manager,inbound_event,2026-04-22,1,0,0,1,4,3,1,0,1,1,1,0,0,Subject A,T2,,morning,Monday
+126,user126@company.com,,Gamma Corp,Manager,inbound_event,2026-04-24,1,0,0,4,4,1,0,0,1,0,0,0,0,Subject B,,,afternoon,Tuesday
+95,user95@outlook.com,447606413586.0,Alpha Ltd,Manager,inbound_event,2026-04-26,1,1,0,3,1,3,0,0,1,0,0,0,0,,,,morning,Wednesday
+146,user146@company.com,447385294176.0,,Director,inbound_event,2026-04-20,1,1,1,0,2,3,1,1,1,0,0,0,0,Subject B,T2,S1,morning,Sunday
+42,,,Delta LLC,,inbound_event,2026-04-20,0,0,0,2,0,3,0,0,1,1,1,0,0,Subject B,T2,S2,afternoon,Wednesday
+28,user28@company.com,447781756815.0,Delta LLC,Executive,inbound_event,2026-04-21,1,1,0,0,2,2,0,0,1,1,0,0,0,Subject B,,S1,morning,Sunday
+131,user131@yahoo.com,447566309789.0,Beta Inc,Director,inbound_event,2026-04-21,1,1,0,1,5,3,0,0,1,0,0,0,0,Subject A,,S1,morning,Wednesday
+171,user171@outlook.com,447966730119.0,Gamma Corp,Manager,outbound,2026-04-24,1,1,0,0,1,3,0,0,1,1,0,0,0,Subject A,T2,S1,afternoon,Thursday
+23,user23@gmail.com,447497527911.0,Beta Inc,Manager,referral,2026-04-25,1,1,0,2,1,0,0,0,1,1,0,0,0,Subject B,,S1,afternoon,Wednesday
+96,user96@gmail.com,447733991560.0,Delta LLC,Manager,inbound_event,2026-04-23,1,1,0,0,4,0,1,1,1,0,0,0,0,Subject B,T2,S1,afternoon,Saturday
+94,user94@yahoo.com,447503759748.0,Gamma Corp,Executive,referral,2026-04-25,1,1,0,0,3,3,0,0,1,1,0,0,0,,,,morning,Friday
+45,user45@gmail.com,447793844701.0,Gamma Corp,Director,outbound,2026-04-22,1,1,0,3,2,0,0,0,1,0,0,0,0,Subject A,,S1,afternoon,Tuesday
+161,,447103633546.0,Alpha Ltd,Manager,inbound_event,2026-04-22,0,1,0,3,1,2,1,1,1,0,0,0,0,,,S1,morning,Friday
+104,user104@yahoo.com,447919085662.0,Alpha Ltd,Manager,inbound_event,2026-04-26,1,1,0,4,2,0,0,0,1,0,0,0,0,,T1,,afternoon,Friday
+63,,447239949427.0,Gamma Corp,Director,inbound_event,2026-04-24,0,1,0,0,2,3,0,0,1,0,0,0,0,,T1,S2,morning,Wednesday
+123,user123@gmail.com,,Delta LLC,Executive,outbound,2026-04-21,1,0,0,3,5,2,1,0,1,0,0,0,0,Subject A,,S2,afternoon,Tuesday
+9,user9@gmail.com,447829186935.0,,Director,inbound_event,2026-04-26,1,1,0,3,0,2,0,0,1,0,0,0,0,Subject B,T1,S1,afternoon,Sunday
+101,user101@outlook.com,447270399052.0,,Director,inbound_event,2026-04-21,1,1,0,2,3,0,1,1,1,0,0,0,0,Subject A,,S1,afternoon,Saturday
+187,user187@yahoo.com,,Alpha Ltd,,inbound_event,2026-04-24,1,0,0,2,5,3,0,0,1,0,0,0,0,,T2,S2,afternoon,Sunday
+128,user128@outlook.com,447114010775.0,,Manager,inbound_event,2026-04-24,1,1,0,1,4,3,1,0,1,1,0,0,0,Subject A,,,morning,Sunday
+73,user73@yahoo.com,447708144958.0,Delta LLC,Director,outbound,2026-04-22,1,1,0,4,0,2,0,0,1,0,0,0,0,,,S2,afternoon,Tuesday
+78,,447924645532.0,,Executive,inbound_event,2026-04-22,0,1,0,2,1,2,1,1,1,0,0,0,0,Subject B,T2,,afternoon,Saturday
+49,user49@outlook.com,,Gamma Corp,Manager,inbound_event,2026-04-26,1,0,0,0,4,2,0,0,1,0,0,0,0,Subject A,,S2,afternoon,Saturday
+130,user130@gmail.com,,Gamma Corp,Director,inbound_event,2026-04-22,1,0,0,1,0,0,1,1,1,0,0,0,0,,T1,S2,afternoon,Thursday
+175,user175@gmail.com,447681112431.0,Delta LLC,Director,referral,2026-04-21,1,1,0,4,3,0,0,0,1,1,0,0,0,Subject B,T1,S2,morning,Wednesday
+129,user129@outlook.com,447512410725.0,Beta Inc,Executive,outbound,2026-04-21,1,1,0,1,0,3,1,0,1,1,1,0,0,Subject B,T1,,morning,Monday
+86,user86@company.com,447721248899.0,Alpha Ltd,,referral,2026-04-24,1,1,0,1,0,3,0,0,1,1,0,0,0,,T2,,afternoon,Sunday
+31,user31@yahoo.com,447665150266.0,Gamma Corp,Director,referral,2026-04-25,1,1,1,2,2,2,1,1,1,1,0,0,0,Subject A,T1,S1,afternoon,Tuesday
+76,user76@company.com,447227934017.0,Gamma Corp,,inbound_event,2026-04-26,1,1,0,0,1,3,1,0,1,1,0,0,0,Subject B,,S1,afternoon,Wednesday
+48,,,Gamma Corp,Manager,referral,2026-04-23,0,0,0,1,3,2,0,0,1,0,0,0,0,Subject A,,,afternoon,Sunday
+26,user26@company.com,447796550543.0,Delta LLC,,inbound_event,2026-04-20,1,1,0,0,5,1,0,0,1,1,1,1,1,Subject B,T1,S2,morning,Monday
+143,user143@yahoo.com,447743692909.0,Gamma Corp,Executive,inbound_event,2026-04-23,1,1,0,1,3,3,0,0,1,1,0,0,0,,T1,S1,morning,Wednesday
+107,,447728454034.0,Beta Inc,Director,inbound_event,2026-04-25,0,1,0,1,4,3,1,0,1,0,0,0,0,Subject A,T1,,afternoon,Tuesday
+183,user183@yahoo.com,,Beta Inc,Director,inbound_event,2026-04-24,1,0,0,4,5,1,0,0,1,1,1,1,1,Subject B,T1,S2,afternoon,Tuesday
+75,user75@gmail.com,447467600988.0,Delta LLC,Executive,inbound_event,2026-04-23,1,1,0,4,3,2,1,1,1,1,1,0,0,,T2,S1,afternoon,Friday
+118,user118@yahoo.com,,Beta Inc,Executive,inbound_event,2026-04-26,1,0,0,0,5,1,1,0,1,1,1,1,1,,,S1,afternoon,Saturday
+172,user172@yahoo.com,447181057714.0,,Manager,referral,2026-04-23,1,1,0,1,0,3,1,0,1,1,0,0,0,,,,afternoon,Thursday
+168,user168@yahoo.com,447338833365.0,Alpha Ltd,Director,inbound_event,2026-04-26,1,1,0,1,3,1,1,0,1,0,0,0,0,Subject A,,S1,morning,Saturday
+89,user89@yahoo.com,447212252733.0,Beta Inc,Director,inbound_event,2026-04-24,1,1,0,2,5,2,1,0,1,1,1,1,1,Subject A,T2,S1,morning,Sunday
+60,user60@gmail.com,447150620357.0,,Manager,referral,2026-04-21,1,1,0,2,5,2,1,1,1,0,0,0,0,Subject B,T1,S2,afternoon,Monday
+142,,447814956991.0,Delta LLC,Executive,outbound,2026-04-21,0,1,0,2,5,1,0,0,1,1,1,0,0,Subject A,,S1,afternoon,Wednesday
+127,user127@gmail.com,,Delta LLC,Executive,inbound_event,2026-04-26,1,0,1,3,0,3,1,1,1,0,0,0,0,Subject A,,,afternoon,Friday
+113,user113@outlook.com,,,Director,outbound,2026-04-25,1,0,0,4,1,1,1,1,1,0,0,0,0,Subject B,T1,S1,morning,Friday
+57,user57@outlook.com,,Beta Inc,Manager,inbound_event,2026-04-26,1,0,0,3,5,3,0,0,1,1,0,0,0,Subject B,T2,S2,afternoon,Wednesday
+136,user136@gmail.com,447841725910.0,Alpha Ltd,Manager,outbound,2026-04-23,1,1,0,0,5,1,0,0,1,0,0,0,0,,,S2,morning,Friday
+184,user184@outlook.com,447092502849.0,Alpha Ltd,Director,inbound_event,2026-04-22,1,1,0,4,4,3,0,0,1,1,1,0,0,Subject A,T1,,morning,Wednesday
+109,user109@company.com,,Alpha Ltd,Executive,inbound_event,2026-04-23,1,0,0,2,4,2,1,1,1,0,0,0,0,Subject A,T2,S2,afternoon,Wednesday
+56,user56@company.com,447728562447.0,Beta Inc,Director,inbound_event,2026-04-25,1,1,0,4,4,0,0,0,1,0,0,0,0,Subject A,,S1,afternoon,Saturday
+176,user176@yahoo.com,447462744024.0,Alpha Ltd,Director,inbound_event,2026-04-26,1,1,0,2,4,2,1,1,1,1,1,1,0,Subject B,T2,S1,afternoon,Friday
+98,user98@yahoo.com,447565258924.0,Delta LLC,,inbound_event,2026-04-26,1,1,1,1,0,1,0,0,1,1,1,0,0,,T1,S1,morning,Friday
+3,,447443050547.0,Gamma Corp,Manager,outbound,2026-04-20,0,1,0,3,0,2,0,0,1,0,0,0,0,,T2,S2,afternoon,Thursday
+139,user139@yahoo.com,,Alpha Ltd,Director,inbound_event,2026-04-20,1,0,0,1,2,1,0,0,1,1,0,0,0,,,,morning,Saturday
+167,user167@company.com,,Gamma Corp,,inbound_event,2026-04-25,1,0,1,4,5,3,1,0,1,0,0,0,0,Subject A,T2,S1,afternoon,Wednesday
+7,user7@company.com,447452151766.0,Alpha Ltd,Director,referral,2026-04-25,1,1,0,3,3,2,0,0,1,1,1,1,1,Subject A,,,afternoon,Saturday
+6,user6@outlook.com,447390082085.0,Beta Inc,Executive,inbound_event,2026-04-25,1,1,0,3,4,3,1,0,1,1,1,1,0,Subject B,T2,,afternoon,Friday
+116,,447884950824.0,Beta Inc,,inbound_event,2026-04-25,0,1,1,3,3,1,0,0,1,0,0,0,0,Subject B,,,afternoon,Sunday
+82,user82@yahoo.com,,Delta LLC,Executive,referral,2026-04-25,1,0,0,2,5,3,1,1,1,1,1,1,0,Subject B,T1,S1,afternoon,Saturday
+27,user27@yahoo.com,447804491765.0,Gamma Corp,Director,inbound_event,2026-04-24,1,1,0,2,4,0,1,0,1,1,0,0,0,Subject B,T2,S1,afternoon,Monday
+152,user152@company.com,447026095764.0,,,inbound_event,2026-04-20,1,1,0,4,4,0,1,0,1,1,0,0,0,Subject A,T2,S2,afternoon,Tuesday
+59,user59@gmail.com,447592028900.0,,Executive,inbound_event,2026-04-20,1,1,0,3,1,2,0,0,1,1,1,1,0,,,S2,morning,Sunday
+185,user185@yahoo.com,447314843939.0,,Manager,inbound_event,2026-04-24,1,1,0,3,4,3,0,0,1,0,0,0,0,,,S2,morning,Sunday
+69,user69@yahoo.com,,Beta Inc,Director,inbound_event,2026-04-26,1,0,0,1,0,3,1,1,1,1,0,0,0,,,,afternoon,Thursday
+115,user115@outlook.com,447150838015.0,Delta LLC,Director,inbound_event,2026-04-23,1,1,0,3,5,0,0,0,1,0,0,0,0,Subject A,T2,,afternoon,Wednesday
+179,user179@gmail.com,,Alpha Ltd,Manager,inbound_event,2026-04-26,1,0,0,1,4,2,1,0,1,0,0,0,0,,T2,,afternoon,Tuesday
+1,,447358130641.0,,Manager,inbound_event,2026-04-25,0,1,0,0,1,3,0,0,1,1,1,0,0,,T1,S2,morning,Wednesday
+156,user156@company.com,,Gamma Corp,Director,referral,2026-04-20,1,0,0,4,2,0,0,0,1,1,0,0,0,,,S2,afternoon,Tuesday
+111,,447261497402.0,,,inbound_event,2026-04-20,0,1,0,1,4,2,1,0,1,1,0,0,0,Subject A,T2,S2,morning,Wednesday
+100,user100@yahoo.com,447687199032.0,Alpha Ltd,Manager,inbound_event,2026-04-23,1,1,0,0,2,3,0,0,1,0,0,0,0,Subject B,,S1,morning,Tuesday
+8,user8@gmail.com,,Alpha Ltd,Executive,inbound_event,2026-04-25,1,0,0,0,1,3,0,0,1,0,0,0,0,Subject B,T2,,afternoon,Wednesday
+125,user125@company.com,447351756950.0,Alpha Ltd,Manager,referral,2026-04-25,1,1,0,1,1,3,1,0,1,0,0,0,0,Subject B,T1,S1,morning,Friday
+25,user25@yahoo.com,447805806396.0,Delta LLC,,inbound_event,2026-04-26,1,1,0,0,1,2,0,0,1,0,0,0,0,Subject A,T2,S1,afternoon,Thursday
+54,user54@outlook.com,447399526357.0,Gamma Corp,Executive,inbound_event,2026-04-26,1,1,0,0,3,2,1,1,1,1,0,0,0,Subject B,T1,S2,afternoon,Sunday

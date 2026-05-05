@@ -269,7 +269,7 @@ completeness_pct =
         (IF(leads_cleaned[company] <> BLANK(), 1, 0)) +
         (IF(leads_cleaned[job_title] <> BLANK(), 1, 0)),
         4
-    ) * 100
+    ) 
 ```
 
 ### Measures (in _Measures table)
@@ -281,25 +281,25 @@ Email Completeness % =
 DIVIDE(
     CALCULATE(COUNTROWS(leads_cleaned), leads_cleaned[email] <> BLANK()),
     COUNTROWS(leads_cleaned)
-) * 100
+) 
 
 Phone Completeness % =
 DIVIDE(
     CALCULATE(COUNTROWS(leads_cleaned), leads_cleaned[phone] <> BLANK()),
     COUNTROWS(leads_cleaned)
-) * 100
+) 
 
 Company Completeness % =
 DIVIDE(
     CALCULATE(COUNTROWS(leads_cleaned), leads_cleaned[company] <> BLANK()),
     COUNTROWS(leads_cleaned)
-) * 100
+) 
 
 Job Title Completeness % =
 DIVIDE(
     CALCULATE(COUNTROWS(leads_cleaned), leads_cleaned[job_title] <> BLANK()),
     COUNTROWS(leads_cleaned)
-) * 100
+) 
 
 Overall Completeness % =
 DIVIDE(
@@ -361,6 +361,13 @@ CALCULATE(COUNTROWS(leads_cleaned), leads_cleaned[company] = BLANK())
 
 Missing Title Count =
 CALCULATE(COUNTROWS(leads_cleaned), leads_cleaned[job_title] = BLANK())
+
+Projected Monthly Meetings =
+DIVIDE([Meeting Held Rate %], 100) * [Total Leads] * 4
+
+Projected Meetings If Data Fixed =
+(0.121 * [Total Leads]) * 4
+
 ```
 
 ---
